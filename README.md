@@ -1,2 +1,2 @@
 # CsharpKit
-A Csharp tool kit that personal used, backup on here
+A Csharp tool kit for personally use, backup on here
